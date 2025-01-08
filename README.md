@@ -1,3 +1,3 @@
-# Autocolorization_VGG
+# VGG_Autocolorization
 
 ## Project Description
