@@ -5,3 +5,12 @@ This project focuses on restoring black-and-white images by applying deep learni
 
 ## Methodology
 ![image](https://github.com/user-attachments/assets/31db8960-e853-49f2-bd29-19ad163188cf)
+
+## Technologies Used
+* **Frameworks & Libraries**:
+  Keras, TensorFlow, scikit-image, NumPy, Matplotlib
+* **Models**:
+  VGG16 (pre-trained for feature extraction)
+* **Tools**:
+  Google Colab, Python
+
